@@ -1,5 +1,5 @@
 # NLP Model for the Russian National Corpus
-Using natural language processing to create a model to classify Russian texts by genre.
+Using natural language processing to create a model to classify Russian texts by author's gender.
 ** * **
 ## modeling-notebook.ipynb
 - Contains exploratory analyses of the Russian National Corpus and the set-up for an LSTM model for classifying by gender
