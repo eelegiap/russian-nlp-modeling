@@ -9,3 +9,6 @@ Using natural language processing to create a model to classify Russian texts by
 
 ## vector_files folder
 - Folder with the TFIDF, CV, LDA, and NMF vectors calculated from my first pass on the RNC texts
+
+## ISMT-117-Report.pdf
+- Outlining the purpose and preliminary findings of the project
