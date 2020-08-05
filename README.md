@@ -1,4 +1,4 @@
-# russian-nlp-modeling
+# NLP Model for the Russian National Corpus
 Using natural language processing to create a model to classify Russian texts by genre.
 ** * **
 ## modeling-notebook.ipynb
